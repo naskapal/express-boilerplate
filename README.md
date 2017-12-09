@@ -22,7 +22,7 @@ This app has 2 basic routes, index, and users
 The index route is commented, make sure to uncomment if you need it (it's in app.js line 15)
 
 |route|method|description|
-|-------------------------|
+|-----|------|--------------|
 |/users|POST|registers user to database|
 
 
